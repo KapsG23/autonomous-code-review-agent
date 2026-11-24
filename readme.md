@@ -1,6 +1,7 @@
 # Autonomous Code Review Agent System
 
 An AI-powered code review system that automatically analyzes GitHub pull requests using autonomous agents. The system processes reviews asynchronously and provides structured feedback through a REST API.
+**Project Collaboration:** Developed as a team project, involving collaborative development, AI agent integration, and system architecture.
 
 ## Features
 
